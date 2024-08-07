@@ -6,3 +6,11 @@ body{
     background-color: #282c34;
    min-height: 100 vh; 
 }
+header, nav, footer{
+    background-color #ffa500;
+    padding: 20px;
+    text-align: center;
+    color: white;
+
+}
+
